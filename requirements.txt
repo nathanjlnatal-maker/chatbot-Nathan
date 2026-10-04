@@ -6,3 +6,4 @@ pillow
 openpyxl
 python-docx
 pdf2docx
+pymupdf
