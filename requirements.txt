@@ -4,6 +4,4 @@ google-genai
 pypdf
 pillow
 openpyx1
-pdf2docx
-pymupdf
 python-docx
