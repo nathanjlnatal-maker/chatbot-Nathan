@@ -3,5 +3,5 @@ openai
 google-genai
 pypdf
 pillow
-openpyx1
+openpyxl
 python-docx
